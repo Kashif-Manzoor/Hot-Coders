@@ -14,6 +14,7 @@ public class HelloWorld {
 		map1.put("SIBANI", 1);
 		map1.put("GOURI", 1);
 		System.out.println("Kashif is a good boy");
+		System.out.println("its time to leave");
 	}
 
 }
